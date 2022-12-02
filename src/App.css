@@ -1,38 +1,161 @@
-.App {
-  text-align: center;
-}
+.its{
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  display: flex;
+ flex-direction: row;
+ 
+ 
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+a{
+  font-weight: bolder;
+  text-transform: uppercase;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/* .navbar-expand-lg{
+  position:fixed;
+} */
+/* .carousel-item{
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+} */
+/* .carousel-item > .carousel-caption{
+  padding-top: 50px !important;
+} */
+i{
+  padding-left: 20px;
+}
+.cen{
+  margin:30px auto;
+}
+.space{
+  width:250px;
+  margin-top: 6px;
+  background-color:rgb(255, 132, 0);
   color: white;
+  text-transform: uppercase;
+
 }
 
-.App-link {
-  color: #61dafb;
+.img-box img {
+  margin-left: auto;
+  margin-right: auto;
+}
+.space:hover{
+  background-color: whitesmoke;
+  color:rgb(230, 8, 8)
+}
+.grey{
+  color:gray
+}
+.copy{
+  margin-top: 65px;
+}
+.its2{
+  display: flex;
+  flex-wrap: wrap;
+}
+.its21{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.hi1{
+padding: 40px;
+
+}
+.it{
+  margin: 70px 0px;
+}
+.btn1{
+  margin: 70px 500px;
+}
+.p3{
+  padding: 80px 50px;
+}
+.p6{
+  padding: 15px 50px ;
+}
+.btn-dark:hover{
+  background-color: white;
+  color: black;
+}
+.hi{
+  margin: 30px;
+}
+.its{
+  display: flex;
+  flex-direction: row;
+ text-align: center;
+  
+}.its2{
+  display: flex;
+  flex-direction: row;
+ text-align: center;
+ justify-content: space-between;
+  
+}
+.last1{
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+}
+.zmdi {
+  font-size: 40px;
+}
+.cnetr{
+  text-align: center;
+}
+.its1{
+  text-align: center;
+}
+.bg{
+  background-color: black;
+  color: white;
+  padding: 50px;
+}
+.nav-link:hover{
+  border-bottom: 1px solid black ;
+}
+.link:hover{
+
+  border-bottom: 2px solid black ;
+}
+@media screen and (max-width: 414px) {
+  .btn1{
+    margin: 20px auto;
+  }
+  .nav1{
+    text-align: center;
+  }
+  .serach,.lo{
+    display: none;
+  }
+  .max auto > .zmdi-search{
+    text-align: right;
+  }
+  .it{
+    margin: 10px 0px;
+    
+  }
+  .it >img{
+    width: 250px;
+  }
+}
+@media (min-width: 768px) {
+    
+  .carousel-inner .carousel-item-end.active,
+  .carousel-inner .carousel-item-next {
+    transform: translateX(25%);
+  }
+  
+  .carousel-inner .carousel-item-start.active, 
+  .carousel-inner .carousel-item-prev {
+    transform: translateX(-25%);
+  }
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.carousel-inner .carousel-item-end,
+.carousel-inner .carousel-item-start { 
+transform: translateX(0);
 }
+/* @media screen and (min-width:300) and (max-width:700){ */
+  
