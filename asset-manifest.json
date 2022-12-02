@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/ecompharma/static/css/main.30c0ad1f.css",
+    "main.js": "/ecompharma/static/js/main.e1c6a877.js",
+    "static/js/787.7390042d.chunk.js": "/ecompharma/static/js/787.7390042d.chunk.js",
+    "static/media/multi.webp": "/ecompharma/static/media/multi.541b2221bb8d10a2b4fb.webp",
+    "static/media/map.webp": "/ecompharma/static/media/map.a71b547f0856808d9f97.webp",
+    "static/media/kids.webp": "/ecompharma/static/media/kids.c049fc4cb2198a6611fa.webp",
+    "static/media/beauty.webp": "/ecompharma/static/media/beauty.8191e9e8e16511c6afe0.webp",
+    "static/media/sleep.webp": "/ecompharma/static/media/sleep.d077181807f1d97f607e.webp",
+    "static/media/med2.webp": "/ecompharma/static/media/med2.0076dee544e5bd3b5480.webp",
+    "static/media/med6.webp": "/ecompharma/static/media/med6.cd08a52717f7c3dc8b54.webp",
+    "static/media/med1.png": "/ecompharma/static/media/med1.7041210ad21e085f7ba4.png",
+    "static/media/med4.webp": "/ecompharma/static/media/med4.42e3fe15a4c702174cd1.webp",
+    "static/media/med5.webp": "/ecompharma/static/media/med5.42e3fe15a4c702174cd1.webp",
+    "static/media/logo1.webp": "/ecompharma/static/media/logo1.a6afd760d9e66d191163.webp",
+    "static/media/move6.webp": "/ecompharma/static/media/move6.ece46486f90ce86699ae.webp",
+    "static/media/move2.webp": "/ecompharma/static/media/move2.250123f0abbfb86b924a.webp",
+    "static/media/med3.webp": "/ecompharma/static/media/med3.1a7825e0adc5efee2d0b.webp",
+    "static/media/move1.webp": "/ecompharma/static/media/move1.4407e1d3272bd36b1f1b.webp",
+    "static/media/move3.webp": "/ecompharma/static/media/move3.7aff3f8fd6d10f7cfde9.webp",
+    "static/media/move5.webp": "/ecompharma/static/media/move5.8b68332a12569aa3bd3d.webp",
+    "static/media/move4.webp": "/ecompharma/static/media/move4.9bb9f01a2a9c2b6a11cf.webp",
+    "static/media/move8.webp": "/ecompharma/static/media/move8.f418b986b5d4a381a45c.webp",
+    "static/media/move7.webp": "/ecompharma/static/media/move7.23226f43c14ca3fb93b5.webp",
+    "static/media/its3.webp": "/ecompharma/static/media/its3.c2511d24808cad066640.webp",
+    "static/media/its1.webp": "/ecompharma/static/media/its1.69a24ba594f54c97d20b.webp",
+    "static/media/its4.webp": "/ecompharma/static/media/its4.69a24ba594f54c97d20b.webp",
+    "static/media/its2.webp": "/ecompharma/static/media/its2.2dafc564c264d4d96756.webp",
+    "static/media/logo.webp": "/ecompharma/static/media/logo.a831fcf6fb9d23518162.webp",
+    "static/media/its.webp": "/ecompharma/static/media/its.4ccc5e9591cd915ef2c4.webp",
+    "static/media/men.webp": "/ecompharma/static/media/men.b3ff8db24b9797d525b6.webp",
+    "static/media/kid.webp": "/ecompharma/static/media/kid.14174f1fc7b243f1692e.webp",
+    "index.html": "/ecompharma/index.html",
+    "main.30c0ad1f.css.map": "/ecompharma/static/css/main.30c0ad1f.css.map",
+    "main.e1c6a877.js.map": "/ecompharma/static/js/main.e1c6a877.js.map",
+    "787.7390042d.chunk.js.map": "/ecompharma/static/js/787.7390042d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30c0ad1f.css",
+    "static/js/main.e1c6a877.js"
+  ]
+}
